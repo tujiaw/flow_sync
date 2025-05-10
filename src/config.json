@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "pull_interval": 10,
+    "bot_list": [
+        {
+            "id": "902m3w7hbr4eiayp",
+            "name": "cursor_write_flow"
+        }
+    ]
+}
